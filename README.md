@@ -18,10 +18,10 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | name | "5ives Community Sports Club" | The name of the table. | 
 | address | "Burnsall Grove, Barnsley" | The address of the table.  | 
 | county | "" | Always empty  | 
-| country | "uk" |  The country where the tables. | 
+| country | "uk" |  The country in which the table is located. | 
 | postcode | "S70 3JR" | The post code of where the table is. | 
 |tel | "01324 656234"| Gives details of the telephone of the person who looks after the table.|
-|indoor_outdoor | "Outdoor"| Gives details of weather the table tennis table is indoors or out doors. This field is free text.|
+|indoor_outdoor | "Outdoor"| Gives details of whether the table tennis table is indoors or out doors. This field is free text.|
 |static |"Fold away" | Gives details of weather the table tennis table is fixed or fold away. This field is free text.|
 
 ## Changelog
